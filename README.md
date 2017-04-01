@@ -16,8 +16,8 @@ or provide additional information.  Include:
 
 # [NHL](https://nhl.com)
 
-| Organization                  | Writer                | Site                                          | Follow
-|:------------                  |:------                |:----                                          |:------ 
+| Organization                  | Writer                | Site                                          | Follow	|
+|:------------                  |:------                |:----                                          |:------	|
 | Anaheim Ducks |       |       |
 | Arizona Coyotes       |       |       |
 | Boston Bruins |       |       |
@@ -28,8 +28,8 @@ or provide additional information.  Include:
 | Colorado Avalanche    |       |       |
 | Columbus Blue Jackets |       |       |
 | Dallas Stars  |       |       |
-| [Detroit Red Wings](https://www.nhl.com/redwings/)	| **[Ansar Khan](http://connect.mlive.com/staff/akhan/posts.html)**	| [MLive](http://www.mlive.com/redwings/)	| [@AnsarKhanMLive](https://twitter.com/ansarkhanmlive/)	[RSS](http://blog.mlive.com/redwings_impact/atom.xml)
-|                               			| [Helene St. James](http://www.freep.com/staff/27657/helene-st-james/)	| [Detroit Free Press](http://www.freep.com/sports/red-wings/)	| [@HeleneStJames](https://twitter.com/HeleneStJames)  
+| [Detroit Red Wings](https://www.nhl.com/redwings/)	| **[Ansar Khan](http://connect.mlive.com/staff/akhan/posts.html)**	| [MLive](http://www.mlive.com/redwings/)	| [@AnsarKhanMLive](https://twitter.com/ansarkhanmlive/)	[RSS](http://blog.mlive.com/redwings_impact/atom.xml)	|
+|                               			| [Helene St. James](http://www.freep.com/staff/27657/helene-st-james/)	| [Detroit Free Press](http://www.freep.com/sports/red-wings/)	| [@HeleneStJames](https://twitter.com/HeleneStJames)	|
 | Edmonton Oilers       |       |       |
 | Florida Panthers      |       |       |
 | Los Angeles Kings     |       |       |
@@ -53,7 +53,7 @@ or provide additional information.  Include:
 # [AHL](http://theahl.com)
 
 | Organization                  | Writer                | Site                                          | Follow
-|:------------                  |:------                |:----                                          |:------ 
+|:------------                  |:------                |:----                                          |:------	|
 | Albany Devils |       |       |
 | Bakersfield Condors   |       |       |
 | Binghamton Senators   |       |       |
@@ -87,8 +87,8 @@ or provide additional information.  Include:
 
 # [ECHL](http://echl.com)
 
-| Organization                  | Writer                | Site                                          | Follow
-|:------------                  |:------                |:----                                          |:------ 
+| Organization                  | Writer                | Site                                          | Follow	|
+|:------------                  |:------                |:----                                          |:------	|
 | Adirondack Thunder    |       |       |
 | Alaska Aces   |       |       |
 | Allen Americans       |       |       |
@@ -119,8 +119,8 @@ or provide additional information.  Include:
 
 # [OHL](http://ontariohockeyleague.com/)
 
-| Organization                  | Writer                | Site                                          | Follow
-|:------------                  |:------                |:----                                          |:------ 
+| Organization                  | Writer                | Site                                          | Follow	|
+|:------------                  |:------                |:----                                          |:------	|
 | Barrie Colts  |       |       |
 | Erie Otters   |       |       |
 | Flint Firebirds       |       |       |
@@ -144,8 +144,8 @@ or provide additional information.  Include:
 
 # [QMJHL](http://theqmjhl.ca/)
 
-| Organization                  | Writer                | Site                                          | Follow
-|:------------                  |:------                |:----                                          |:------ 
+| Organization                  | Writer                | Site                                          | Follow	|
+|:------------                  |:------                |:----                                          |:------	|
 | Acadie-Bathurst Titan |       |       |
 | Baie-Comeau Drakkar   |       |       |
 | Blainville-Boisbriand Armada  |       |       |
@@ -168,8 +168,8 @@ or provide additional information.  Include:
 
 # [WHL](http://whl.ca)
 
-| Organization                  | Writer                | Site                                          | Follow
-|:------------                  |:------                |:----                                          |:------ 
+| Organization                  | Writer                | Site                                          | Follow	|
+|:------------                  |:------                |:----                                          |:------	|
 | Brandon Wheat Kings   |       |       |
 | Calgary Hitmen        |       |       |
 | Edmonton Oil Kings    |       |       |
