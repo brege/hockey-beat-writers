@@ -45,7 +45,7 @@ or provide additional information.  Include:
 | San Jose Sharks       |       |       |
 | St. Louis Blues       |       |       |
 | Tampa Bay Lightning   |       |       |
-| Toronto Maple Leafs   |       |       |
+| [Toronto Maple Leafs](https://www.nhl.com/mapleleafs)	| **[Kristen Shilton](http://www.tsn.ca/talent/kristen-shilton-1.592030)**	| [TSN](http://www.tsn.ca/nhl/team/toronto-maple-leafs)	| [@kirsten_shilton](https://twitter.com/kristen_shilton)	|
 | Vancouver Canucks     |       |       |
 | Washington Capitals   |       |       |
 | Winnipeg Jets |       |       |
