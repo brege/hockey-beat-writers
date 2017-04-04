@@ -190,7 +190,7 @@ or provide additional information.  Include:
 | Seattle Thunderbirds  |       |       |
 | Spokane Chiefs        |       |       |
 | Swift Current Broncos |       |       |
-| [Tri-City Americans](http://amshockey.com)	| **Annie Fowler**	| [Tri-City Herald](http://www.tri-cityherald.com/sports/other-sports/tri-city-americans/)	| [@TCHIceQueen](https://twitter.com/TCHIceQueen) - [ ![RSS][rss] ](http://www.tri-cityherald.com/sports/other-sports/tri-city-americans/?widgetName=rssfeed&widgetContentId=28324093&getXmlFeed=true) - [ ![Email][envelope] ](afowler@tricityherald.com)
+| [Tri-City Americans](http://amshockey.com)	| **Annie Fowler**	| [Tri-City Herald](http://www.tri-cityherald.com/sports/other-sports/tri-city-americans/)	| [ ![@TCHIceQueen][twitter] ](https://twitter.com/TCHIceQueen) - [ ![RSS][rss] ](http://www.tri-cityherald.com/sports/other-sports/tri-city-americans/?widgetName=rssfeed&widgetContentId=28324093&getXmlFeed=true) - [ ![Email][envelope] ](afowler@tricityherald.com)
 | Vancouver Giants      |       |       |
 | Victoria Royals       |       |       |
 
