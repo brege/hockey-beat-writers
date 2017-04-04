@@ -28,7 +28,7 @@ or provide additional information.  Include:
 | Colorado Avalanche    |       |       |
 | Columbus Blue Jackets |       |       |
 | Dallas Stars  |       |       |
-| [Detroit Red Wings](https://www.nhl.com/redwings/)	| **[Ansar Khan](http://connect.mlive.com/staff/akhan/posts.html)**	| [MLive](http://www.mlive.com/redwings/)	| [@AnsarKhanMLive](https://twitter.com/ansarkhanmlive/)	[RSS](http://blog.mlive.com/redwings_impact/atom.xml)	|
+| [Detroit Red Wings](https://www.nhl.com/redwings/)	| **[Ansar Khan](http://connect.mlive.com/staff/akhan/posts.html)**	| [MLive](http://www.mlive.com/redwings/)	| [@AnsarKhanMLive](https://twitter.com/ansarkhanmlive/) - [RSS](http://blog.mlive.com/redwings_impact/atom.xml)	|
 |                               			| [Helene St. James](http://www.freep.com/staff/27657/helene-st-james/)	| [Detroit Free Press](http://www.freep.com/sports/red-wings/)	| [@HeleneStJames](https://twitter.com/HeleneStJames)	|
 | Edmonton Oilers       |       |       |
 | Florida Panthers      |       |       |
@@ -45,7 +45,8 @@ or provide additional information.  Include:
 | San Jose Sharks       |       |       |
 | St. Louis Blues       |       |       |
 | Tampa Bay Lightning   |       |       |
-| [Toronto Maple Leafs](https://www.nhl.com/mapleleafs)	| **[Kristen Shilton](http://www.tsn.ca/talent/kristen-shilton-1.592030)**	| [TSN](http://www.tsn.ca/nhl/team/toronto-maple-leafs)	| [@kirsten_shilton](https://twitter.com/kristen_shilton)	|
+| [Toronto Maple Leafs](https://www.nhl.com/mapleleafs)	| **[James Mirtle](https://theathletic.com/author/5587/)**	| [The Athletic](https://theathletic.com/leafs/)	| [@mirtle](https://twitter.com/mirtle/) - [RSS](https://theathletic.com/author/5587/feed/)
+|			| [Kristen Shilton](http://www.tsn.ca/talent/kristen-shilton-1.592030)	| [TSN](http://www.tsn.ca/nhl/team/toronto-maple-leafs)	| [@kirsten_shilton](https://twitter.com/kristen_shilton)	
 | Vancouver Canucks     |       |       |
 | Washington Capitals   |       |       |
 | Winnipeg Jets |       |       |
@@ -189,7 +190,7 @@ or provide additional information.  Include:
 | Seattle Thunderbirds  |       |       |
 | Spokane Chiefs        |       |       |
 | Swift Current Broncos |       |       |
-| [Tri-City Americans](http://amshockey.com)	| **Annie Fowler**	| [Tri-City Herald](http://www.tri-cityherald.com/sports/other-sports/tri-city-americans/)	| [@TCHIceQueen](https://twitter.com/TCHIceQueen)	[RSS](http://www.tri-cityherald.com/sports/other-sports/tri-city-americans/?widgetName=rssfeed&widgetContentId=28324093&getXmlFeed=true)	[Email](afowler@tricityherald.com)
+| [Tri-City Americans](http://amshockey.com)	| **Annie Fowler**	| [Tri-City Herald](http://www.tri-cityherald.com/sports/other-sports/tri-city-americans/)	| [@TCHIceQueen](https://twitter.com/TCHIceQueen) - [RSS](http://www.tri-cityherald.com/sports/other-sports/tri-city-americans/?widgetName=rssfeed&widgetContentId=28324093&getXmlFeed=true) - [Email](afowler@tricityherald.com)
 | Vancouver Giants      |       |       |
 | Victoria Royals       |       |       |
 
