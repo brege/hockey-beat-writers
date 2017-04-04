@@ -26,7 +26,7 @@ or provide additional information.  Include:
 | Carolina Hurricanes   |       |       |
 | Chicago Blackhawks    |       |       |
 | Colorado Avalanche    |       |       |
-| Columbus Blue Jackets |       |       |
+| [Columbus Blue Jackets]() | **Aaron Portzline**	| [The Columbus Dispatch](http://www.dispatch.com/sports/cbj)	| [@Aportzline](https://twitter.com/Aportzline) - [RSS](http://www.dispatch.com/sports/cbj?template=rss&mime=xml) - [Email](aportzline@dispatch.com)
 | Dallas Stars  |       |       |
 | [Detroit Red Wings](https://www.nhl.com/redwings/)	| **[Ansar Khan](http://connect.mlive.com/staff/akhan/posts.html)**	| [MLive](http://www.mlive.com/redwings/)	| [@AnsarKhanMLive](https://twitter.com/ansarkhanmlive/) - [RSS](http://blog.mlive.com/redwings_impact/atom.xml)	|
 |                               			| [Helene St. James](http://www.freep.com/staff/27657/helene-st-james/)	| [Detroit Free Press](http://www.freep.com/sports/red-wings/)	| [@HeleneStJames](https://twitter.com/HeleneStJames)	|
