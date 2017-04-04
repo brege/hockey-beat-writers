@@ -33,7 +33,7 @@ or provide additional information.  Include:
 | Edmonton Oilers       |       |       |
 | Florida Panthers      |       |       |
 | Los Angeles Kings     |       |       |
-| Minnesota Wild        |       |       |
+| [Minnesota Wild](https://www.nhl.com/wild)	| **[Michael Russo](http://www.startribune.com/sports/blogs/Russos_Rants/)**      | [Star Tribune](http://www.startribune.com/sports/wild/)      | [@Russostrib](https://twitter.com/Russostrib)
 | Montreal Canadiens    |       |       |
 | Nashville Predators   |       |       |
 | New Jersey Devils     |       |       |
