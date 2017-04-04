@@ -196,4 +196,3 @@ or provide additional information.  Include:
 
 
 [rss]: img/rss.png
-[twitter]: img/twitter.png
