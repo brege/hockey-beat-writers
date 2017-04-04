@@ -43,7 +43,7 @@ or provide additional information.  Include:
 | Philadelphia Flyers   |       |       |
 | Pittsburgh Penguins   |       |       |
 | San Jose Sharks       |       |       |
-| St. Louis Blues       |       |       |
+| [St. Louis Blues](https://www.nhl.com/blues)	| **[Benjamin Hochman](https://www.stltoday.com/users/profile/benjamin-hochman/)**	| [St. Louis Post-Dispatch](https://www.stltoday.com/sports/hockey/professional/)	 | [@hochman](https://twitter.com/hochman) - [RSS](http://www.stltoday.com/search/?f=rss&t=article&c=sports/hockey/professional&l=50&s=start_time&sd=desc) 
 | Tampa Bay Lightning   |       |       |
 | [Toronto Maple Leafs](https://www.nhl.com/mapleleafs)	| **[James Mirtle](https://theathletic.com/author/5587/)**	| [The Athletic](https://theathletic.com/leafs/)	| [@mirtle](https://twitter.com/mirtle/) - [RSS](https://theathletic.com/author/5587/feed/)
 |			| [Kristen Shilton](http://www.tsn.ca/talent/kristen-shilton-1.592030)	| [TSN](http://www.tsn.ca/nhl/team/toronto-maple-leafs)	| [@kirsten_shilton](https://twitter.com/kristen_shilton)	
