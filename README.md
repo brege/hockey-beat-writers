@@ -11,8 +11,10 @@ or provide additional information.  Include:
 - [ ] website writer publishes on
 - [ ] twitter, rss feed, and email (all that are available)
 
-
 **Bold names** indicate consensus favorite
+
+**Note:** an agressive adblocking list (Fanboy’s Annoyance List)
+can cause the icons in the *Follow* column to be hidden.
 
 # [NHL](https://nhl.com)
 
