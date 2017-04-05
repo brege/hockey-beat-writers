@@ -44,7 +44,7 @@ or provide additional information.  Include:
 | Pittsburgh Penguins   |       |       |
 | San Jose Sharks       |       |       |
 | [St. Louis Blues](https://www.nhl.com/blues)	| **[Benjamin Hochman](https://www.stltoday.com/users/profile/benjamin-hochman/)**	| [St. Louis Post-Dispatch](https://www.stltoday.com/sports/hockey/professional/)	 | [ ![@hochman][twitter] ](https://twitter.com/hochman)  [ ![RSS][rss] ](http://www.stltoday.com/search/?f=rss&t=article&c=sports/hockey/professional&l=50&s=start_time&sd=desc) 
-| Tampa Bay Lightning   |       |       |
+| [Tampa Bay Lightning]()   | **[Joe Smith](http://www.tampabay.com/writers/joe-smith)**	| [Tampa Bay Times](http://www.tampabay.com/sports/hockey/lightning/)	| [ ![@TBTimes_JSmith][twitter] ](https://mobile.twitter.com/TBTimes_JSmith)   [ ![RSS][rss] ](http://www.tampabay.com/rss/news/?tags=sports,hockey,lightning)  [ ![Email][envelope] ](mailto:joesmith@tampabay.com)
 | [Toronto Maple Leafs](https://www.nhl.com/mapleleafs)	| **[James Mirtle](https://theathletic.com/author/5587/)**	| [The Athletic](https://theathletic.com/leafs/)	| [ ![@mirtle][twitter] ](https://twitter.com/mirtle/)  [ ![RSS][rss] ](https://theathletic.com/author/5587/feed/)
 |			| [Kristen Shilton](http://www.tsn.ca/talent/kristen-shilton-1.592030)	| [TSN](http://www.tsn.ca/nhl/team/toronto-maple-leafs)	| [ ![@kirsten_shilton][twitter] ](https://twitter.com/kristen_shilton)	
 | Vancouver Canucks     |       |       |
