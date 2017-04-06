@@ -23,7 +23,7 @@ can cause the icons in the *Follow* column to be hidden.
 | Anaheim Ducks |       |       |
 | Arizona Coyotes       |       |       |
 | Boston Bruins |       |       |
-| Buffalo Sabres        |       |       |
+| [Buffalo Sabres](https://www.nhl.com/sabres) | [**John Vogl**](http://buffalonews.com/author/john_vogl/) | [The Buffalo News](http://buffalonews.com/section/sports/sabres/) | [ ![@BuffNewsVogl][twitter] ](https://twitter.com/BuffNewsVogl)   |
 | Calgary Flames        |       |       |
 | Carolina Hurricanes   |       |       |
 | [Chicago Blackhawks](https://www.nhl.com/blackhawks)    | [Chris Kuc](http://www.chicagotribune.com/chi-chris-kuc-staff.html) | [Chicago Tribune](http://www.chicagotribune.com/sports/hockey/blackhawks/)	| [ ![@ChrisKuc][twitter] ](https://twitter.com/ChrisKuc) [ ![RSS][rss] ](http://www.chicagotribune.com/sports/hockey/blackhawks/rss2.0.xml) [ ![Email][envelope] ](mailto:ckuc@chicagotribune.com)
