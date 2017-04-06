@@ -35,7 +35,7 @@ can cause the icons in the *Follow* column to be hidden.
 | [Edmonton Oilers](https://www.nhl.com/oilers)	| **[Jim Matheson](http://edmontonjournal.com/author/jim-matheson-edmonton-journal)**	| [Edmonton Journal](http://edmontonjournal.com/category/sports/hockey/nhl/edmonton-oilers)	| [ ![@NHLbyMatty][twitter] ](https://twitter.com/nhlbymatty)  [ ![RSS][rss] ](http://edmontonjournal.com/category/sports/hockey/nhl/edmonton-oilers/feed)  [ ![Email][envelope] ](mailto:jmatheson@postmedia.com)
 | Florida Panthers      |       |       |
 | Los Angeles Kings     |       |       |
-| [Minnesota Wild](https://www.nhl.com/wild)	| **[Michael Russo](http://www.startribune.com/sports/blogs/Russos_Rants/)**      | [Star Tribune](http://www.startribune.com/sports/wild/)      | [ ![@Russostrib][twitter] ](https://twitter.com/Russostrib)
+| [Minnesota Wild](https://www.nhl.com/wild)	| **[Michael Russo](http://www.startribune.com/sports/blogs/Russos_Rants/)**      | [Star Tribune](http://www.startribune.com/sports/wild/)      | [ ![@Russostrib][twitter] ](https://twitter.com/Russostrib)  [ ![RSS][rss] ](http://www.startribune.com/sports/wild/index.rss2)  
 | Montreal Canadiens    |       |       |
 | Nashville Predators   |       |       |
 | New Jersey Devils     |       |       |
