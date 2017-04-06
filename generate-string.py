@@ -5,33 +5,32 @@ def bold(string):
 def italic(string):
     return "_"+string+"_"
 
-print("This script will generate a writer's row from user")
-print("input.\n")
-print("Leave options blank if you don't know.\n")
+print("\nThis script will generate a writer's row from user")
+print("input.  Leave options blank if you don't know.\n")
 
 # hockey team
 team_name = input("Enter team:  ")
-print("Enter ",team_name,"'s official site:  ", end='')   
+print("Enter ",team_name,"'s official site:  ", end='', sep='')
 team_site = input()
 
 # beat writer
 beat_writer = input("Beat writer:  ")
-print("Most prolific writer for ",team_name,"? [Y/n]:  ", end='')
+print("Most prolific writer for ",team_name,"? [Y/n]:  ", end='', sep='')
 prolific = input()
 
 # news site
-news_name = input("Enter news site name:   ")
-print("Link to ",news_name,"'s coverage of ",team_name,":  ", end='')
+news_name = input("Enter news site name:  ")
+print("Link to ",news_name,"'s coverage of ",team_name,":  ", end='', sep='')
 news_link = input()
-print("Link to RSS feed on",news_name,":  ", end='')
+print("Link to RSS feed on ",news_name,":  ", end='', sep='')
 news_rss = input()
 
 # profiles
-print("Link to ",beat_writer,"'s profile on ",news_name,":  ", end='')
+print("Link to ",beat_writer,"'s profile on ",news_name,":  ", end='', sep='')
 writer_bio = input()
-print(beat_writer,"'s twitter handle:  ", end='')
+print(beat_writer,"'s twitter handle:  ", end='', sep='')
 writer_twitter = input()
-print(beat_writer,"'s email address:  ", end='')
+print(beat_writer,"'s email address:  ", end='', sep='')
 writer_email = input()
 
 # if fields are non empty, generate markdown style link handling
@@ -57,7 +56,7 @@ if writer_twitter != "":
 if news_rss != "":
     news_rss = "[ ![RSS][rss] ]("+news_rss+")"
 
-print()
+print("\nHere's the string to copy into README.md:\n")
 print(
         "|",
         team_name,
