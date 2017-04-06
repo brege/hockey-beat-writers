@@ -20,7 +20,7 @@ can cause the icons in the *Follow* column to be hidden.
 
 | Organization                  | Writer                | Site                                          | Follow	|
 |:------------                  |:------                |:----                                          |:------	|
-| Anaheim Ducks |       |       |
+| [Anaheim Ducks](https://www.nhl.com/ducks) | [**Eric Stephens**](http://www.ocregister.com/reporter-profile/eric-1678-stephens) | [Orange County Register](http://www.ocregister.com/sections/sports/ducks/) | [ ![@icemancometh][twitter] ](https://twitter.com/icemancometh) [ ![RSS][rss] ](http://www.ocregister.com/common/rss/rss.php?catID=18903) [ ![Email][envelope] ](mailto:estephens@ocregister.com) |
 | Arizona Coyotes       |       |       |
 | Boston Bruins |       |       |
 | [Buffalo Sabres](https://www.nhl.com/sabres) | [**John Vogl**](http://buffalonews.com/author/john_vogl/) | [The Buffalo News](http://buffalonews.com/section/sports/sabres/) | [ ![@BuffNewsVogl][twitter] ](https://twitter.com/BuffNewsVogl)   |
