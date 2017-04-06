@@ -32,7 +32,7 @@ can cause the icons in the *Follow* column to be hidden.
 | Dallas Stars  |       |       |
 | [Detroit Red Wings](https://www.nhl.com/redwings/)	| **[Ansar Khan](http://connect.mlive.com/staff/akhan/posts.html)**	| [MLive](http://www.mlive.com/redwings/)	| [ ![@AnsarKhanMLive][twitter] ](https://twitter.com/ansarkhanmlive/)  [ ![RSS][rss] ](http://blog.mlive.com/redwings_impact/atom.xml)	 [ ![Email][envelope] ](mailto:akhan1@mlive.com)
 |                               			| [Helene St. James](http://www.freep.com/staff/27657/helene-st-james/)	| [Detroit Free Press](http://www.freep.com/sports/red-wings/)	| [ ![@HeleneStJames][twitter] ](https://twitter.com/HeleneStJames)  [ ![Email][envelope] ](mailto:Hstjames@freepress.com)	|
-| Edmonton Oilers       |       |       |
+| [Edmonton Oilers](https://www.nhl.com/oilers)	| **[Jim Matheson](http://edmontonjournal.com/author/jim-matheson-edmonton-journal)**	| [Edmonton Journal](http://edmontonjournal.com/category/sports/hockey/nhl/edmonton-oilers)	| [ ![@NHLbyMatty][twitter] ](https://twitter.com/nhlbymatty)  [ ![RSS][rss] ](http://edmontonjournal.com/category/sports/hockey/nhl/edmonton-oilers/feed)  [ ![Email][envelope] ](mailto:jmatheson@postmedia.com)
 | Florida Panthers      |       |       |
 | Los Angeles Kings     |       |       |
 | [Minnesota Wild](https://www.nhl.com/wild)	| **[Michael Russo](http://www.startribune.com/sports/blogs/Russos_Rants/)**      | [Star Tribune](http://www.startribune.com/sports/wild/)      | [ ![@Russostrib][twitter] ](https://twitter.com/Russostrib)
