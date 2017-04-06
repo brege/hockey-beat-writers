@@ -62,7 +62,7 @@ print(
         "|",
         team_name,
         "|",
-        writer,
+        beat_writer,
         "|",
         news_name,
         "|",
