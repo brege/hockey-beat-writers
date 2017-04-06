@@ -30,7 +30,7 @@ can cause the icons in the *Follow* column to be hidden.
 | Colorado Avalanche    |       |       |
 | [Columbus Blue Jackets](https://www.nhl.com/bluejackets) | **Aaron Portzline**	| [The Columbus Dispatch](http://www.dispatch.com/sports/cbj)	| [ ![@Aportzline][twitter] ](https://twitter.com/Aportzline)  [ ![RSS][rss] ](http://www.dispatch.com/sports/cbj?template=rss&mime=xml)  [ ![Email][envelope] ](mailto:aportzline@dispatch.com)
 | Dallas Stars  |       |       |
-| [Detroit Red Wings](https://www.nhl.com/redwings/)	| **[Ansar Khan](http://connect.mlive.com/staff/akhan/posts.html)**	| [MLive](http://www.mlive.com/redwings/)	| [ ![@AnsarKhanMLive][twitter] ](https://twitter.com/ansarkhanmlive/)  [ ![RSS][rss] ](http://blog.mlive.com/redwings_impact/atom.xml)	|
+| [Detroit Red Wings](https://www.nhl.com/redwings/)	| **[Ansar Khan](http://connect.mlive.com/staff/akhan/posts.html)**	| [MLive](http://www.mlive.com/redwings/)	| [ ![@AnsarKhanMLive][twitter] ](https://twitter.com/ansarkhanmlive/)  [ ![RSS][rss] ](http://blog.mlive.com/redwings_impact/atom.xml)	 [ ![Email][envelope] ](mailto:akhan1@mlive.com)
 |                               			| [Helene St. James](http://www.freep.com/staff/27657/helene-st-james/)	| [Detroit Free Press](http://www.freep.com/sports/red-wings/)	| [ ![@HeleneStJames][twitter] ](https://twitter.com/HeleneStJames)	|
 | Edmonton Oilers       |       |       |
 | Florida Panthers      |       |       |
