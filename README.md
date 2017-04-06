@@ -64,7 +64,7 @@ can cause the icons in the *Follow* column to be hidden.
 | Charlotte Checkers    |       |       |
 | Chicago Wolves        |       |       |
 | Cleveland Monsters    |       |       |
-| [Grand Rapids Griffins](http://griffinshockey.com/home/)	| **[Peter J. Wallner](http://connect.mlive.com/staff/pwalln/posts.html)**	| [MLive](http://www.mlive.com/griffins/)	| [ ![@petewallner][twitter] ](https://twitter.com/petewallner)	[ ![RSS][rss] ](http://blog.mlive.com/griffins_impact/atom.xml)
+| [Grand Rapids Griffins](http://griffinshockey.com/home/)	| **[Peter J. Wallner](http://connect.mlive.com/staff/pwalln/posts.html)**	| [MLive](http://www.mlive.com/griffins/)	| [ ![@petewallner][twitter] ](https://twitter.com/petewallner)	[ ![RSS][rss] ](http://blog.mlive.com/griffins_impact/atom.xml) [ ![Email][envelope] ](pwallner@mlive.com)
 | Hartford Wolf Pack    |       |       |
 | Hershey Bears |       |       |
 | Iowa Wild     |       |       |
