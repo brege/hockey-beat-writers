@@ -26,7 +26,7 @@ can cause the icons in the *Follow* column to be hidden.
 | Buffalo Sabres        |       |       |
 | Calgary Flames        |       |       |
 | Carolina Hurricanes   |       |       |
-| [Chicago Blackhawks](https://www.nhl.com/hawks)    | [Chris Kuc](http://www.chicagotribune.com/chi-chris-kuc-staff.html) | [Chicago Tribune](http://www.chicagotribune.com/sports/hockey/blackhawks/)	| [ ![@ChrisKuc][twitter] ](https://twitter.com/ChrisKuc) [ ![RSS][rss] ](http://www.chicagotribune.com/sports/hockey/blackhawks/rss2.0.xml) [ ![Email][envelope] ](mailto:ckuc@chicagotribune.com)
+| [Chicago Blackhawks](https://www.nhl.com/blackhawks)    | [Chris Kuc](http://www.chicagotribune.com/chi-chris-kuc-staff.html) | [Chicago Tribune](http://www.chicagotribune.com/sports/hockey/blackhawks/)	| [ ![@ChrisKuc][twitter] ](https://twitter.com/ChrisKuc) [ ![RSS][rss] ](http://www.chicagotribune.com/sports/hockey/blackhawks/rss2.0.xml) [ ![Email][envelope] ](mailto:ckuc@chicagotribune.com)
 | Colorado Avalanche    |       |       |
 | [Columbus Blue Jackets](https://www.nhl.com/bluejackets) | **Aaron Portzline**	| [The Columbus Dispatch](http://www.dispatch.com/sports/cbj)	| [ ![@Aportzline][twitter] ](https://twitter.com/Aportzline)  [ ![RSS][rss] ](http://www.dispatch.com/sports/cbj?template=rss&mime=xml)  [ ![Email][envelope] ](mailto:aportzline@dispatch.com)
 | Dallas Stars  |       |       |
