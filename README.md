@@ -26,7 +26,7 @@ can cause the icons in the *Follow* column to be hidden.
 | Buffalo Sabres        |       |       |
 | Calgary Flames        |       |       |
 | Carolina Hurricanes   |       |       |
-| Chicago Blackhawks    |       |       |
+| [Chicago Blackhawks](https://www.nhl.com/hawks)    | [Chris Kuc](http://www.chicagotribune.com/chi-chris-kuc-staff.html) | [Chicago Tribune](http://www.chicagotribune.com/sports/hockey/blackhawks/)	| [ ![@ChrisKuc][twitter] ](https://twitter.com/ChrisKuc) [ ![RSS][rss] ](http://www.chicagotribune.com/sports/hockey/blackhawks/rss2.0.xml) [ ![Email][envelope] ](mailto:ckuc@chicagotribune.com)
 | Colorado Avalanche    |       |       |
 | [Columbus Blue Jackets](https://www.nhl.com/bluejackets) | **Aaron Portzline**	| [The Columbus Dispatch](http://www.dispatch.com/sports/cbj)	| [ ![@Aportzline][twitter] ](https://twitter.com/Aportzline)  [ ![RSS][rss] ](http://www.dispatch.com/sports/cbj?template=rss&mime=xml)  [ ![Email][envelope] ](mailto:aportzline@dispatch.com)
 | Dallas Stars  |       |       |
@@ -46,7 +46,7 @@ can cause the icons in the *Follow* column to be hidden.
 | Pittsburgh Penguins   |       |       |
 | San Jose Sharks       |       |       |
 | [St. Louis Blues](https://www.nhl.com/blues)	| **[Benjamin Hochman](https://www.stltoday.com/users/profile/benjamin-hochman/)**	| [St. Louis Post-Dispatch](https://www.stltoday.com/sports/hockey/professional/)	 | [ ![@hochman][twitter] ](https://twitter.com/hochman)  [ ![RSS][rss] ](http://www.stltoday.com/search/?f=rss&t=article&c=sports/hockey/professional&l=50&s=start_time&sd=desc) 
-| [Tampa Bay Lightning]()   | **[Joe Smith](http://www.tampabay.com/writers/joe-smith)**	| [Tampa Bay Times](http://www.tampabay.com/sports/hockey/lightning/)	| [ ![@TBTimes_JSmith][twitter] ](https://mobile.twitter.com/TBTimes_JSmith)   [ ![RSS][rss] ](http://www.tampabay.com/rss/news/?tags=sports,hockey,lightning)  [ ![Email][envelope] ](mailto:joesmith@tampabay.com)
+| [Tampa Bay Lightning](https://www.nhl.com/lightning)   | **[Joe Smith](http://www.tampabay.com/writers/joe-smith)**	| [Tampa Bay Times](http://www.tampabay.com/sports/hockey/lightning/)	| [ ![@TBTimes_JSmith][twitter] ](https://mobile.twitter.com/TBTimes_JSmith)   [ ![RSS][rss] ](http://www.tampabay.com/rss/news/?tags=sports,hockey,lightning)  [ ![Email][envelope] ](mailto:joesmith@tampabay.com)
 | [Toronto Maple Leafs](https://www.nhl.com/mapleleafs)	| **[James Mirtle](https://theathletic.com/author/5587/)**	| [The Athletic](https://theathletic.com/leafs/)	| [ ![@mirtle][twitter] ](https://twitter.com/mirtle/)  [ ![RSS][rss] ](https://theathletic.com/author/5587/feed/)
 |			| [Kristen Shilton](http://www.tsn.ca/talent/kristen-shilton-1.592030)	| [TSN](http://www.tsn.ca/nhl/team/toronto-maple-leafs)	| [ ![@kirsten_shilton][twitter] ](https://twitter.com/kristen_shilton)	
 | Vancouver Canucks     |       |       |
