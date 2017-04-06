@@ -27,7 +27,7 @@ can cause the icons in the *Follow* column to be hidden.
 | Calgary Flames        |       |       |
 | Carolina Hurricanes   |       |       |
 | [Chicago Blackhawks](https://www.nhl.com/blackhawks)    | [Chris Kuc](http://www.chicagotribune.com/chi-chris-kuc-staff.html) | [Chicago Tribune](http://www.chicagotribune.com/sports/hockey/blackhawks/)	| [ ![@ChrisKuc][twitter] ](https://twitter.com/ChrisKuc) [ ![RSS][rss] ](http://www.chicagotribune.com/sports/hockey/blackhawks/rss2.0.xml) [ ![Email][envelope] ](mailto:ckuc@chicagotribune.com)
-| Colorado Avalanche    |       |       |
+| [Colorado Avalanche](https://www.nhl.com/avalanche)    | **[Adrian Dater](http://bsndenver.com/author/adater/)**      | [BSN Denver](http://bsndenver.com/avalanche/)      | [ ![@adater][twitter] ](https://twitter.com/adater) 
 | [Columbus Blue Jackets](https://www.nhl.com/bluejackets) | **Aaron Portzline**	| [The Columbus Dispatch](http://www.dispatch.com/sports/cbj)	| [ ![@Aportzline][twitter] ](https://twitter.com/Aportzline)  [ ![RSS][rss] ](http://www.dispatch.com/sports/cbj?template=rss&mime=xml)  [ ![Email][envelope] ](mailto:aportzline@dispatch.com)
 | Dallas Stars  |       |       |
 | [Detroit Red Wings](https://www.nhl.com/redwings/)	| **[Ansar Khan](http://connect.mlive.com/staff/akhan/posts.html)**	| [MLive](http://www.mlive.com/redwings/)	| [ ![@AnsarKhanMLive][twitter] ](https://twitter.com/ansarkhanmlive/)  [ ![RSS][rss] ](http://blog.mlive.com/redwings_impact/atom.xml)	 [ ![Email][envelope] ](mailto:akhan1@mlive.com)
