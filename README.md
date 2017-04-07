@@ -42,7 +42,7 @@ can cause the icons in the *Follow* column to be hidden.
 | New York Islanders    |       |       |
 | New York Rangers      |       |       |
 | Ottawa Senators       |       |       |
-| Philadelphia Flyers   |       |       |
+| [Philadelphia Flyers](https://www.nhl.com/flyers) | **Sam Carchidi** | [The Philadelphia Inquirer](http://www.philly.com/philly/sports/flyers) | [ ![@BroadStBull][twitter] ](https://twitter.com/BroadStBull)  [ ![Email][envelope] ](mailto:scarchidi@phillynews.com)
 | Pittsburgh Penguins   |       |       |
 | San Jose Sharks       |       |       |
 | [St. Louis Blues](https://www.nhl.com/blues)	| **[Tom Timmermann](https://www.stltoday.com/users/profile/ttimmermann/)**	| [St. Louis Post-Dispatch](https://www.stltoday.com/sports/hockey/professional/)	| [ ![@tomtimm][twitter] ](https://twitter.com/tomtimm)  [ ![RSS][rss] ](http://www.stltoday.com/search/?f=rss&t=article&c=sports/hockey/professional&l=50&s=start_time&sd=desc)  [ ![Email][envelope] ](mailto:ttimmermann@post-dispatch.com)
