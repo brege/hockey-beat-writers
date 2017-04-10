@@ -118,7 +118,7 @@ can cause the icons in the *Follow* column to be hidden.
 | Rapid City Rush | | |
 | Reading Royals| | |
 | South Carolina Stingrays| | |
-| Toledo Walleye| | |
+| [Toledo Walleye](http://www.toledowalleye.com/) | **Mark Monroe** | [Toledo Blade](http://www.bcsn.tv/walleye) | [ ![@MonroeBlade][twitter] ](https://twitter.com/MonroeBlade) [ ![RSS][rss] ](http://www.bcsn.tv/news_rss_feed?tags=986277) [ ![Email][envelope] ](mailto:mmonroe@theblade.com) |
 | Tulsa Oilers| | |
 | Utah Grizzlies| | |
 | Wheeling Nailers| | |
