@@ -29,7 +29,7 @@ can cause the icons in the *Follow* column to be hidden.
 | Boston Bruins | | |
 | [Buffalo Sabres](https://www.nhl.com/sabres) | [**John Vogl**](http://buffalonews.com/author/john_vogl/) | [The Buffalo News](http://buffalonews.com/section/sports/sabres/) | [ ![@BuffNewsVogl][twitter] ](https://twitter.com/BuffNewsVogl) |
 | Calgary Flames| | |
-| Carolina Hurricanes | | |
+| [Carolina Hurricanes](https://www.nhl.com/hurricanes) | **Chip Alexander** | [Raleigh News & Observer](http://www.newsobserver.com/sports/nhl/carolina-hurricanes/) | [ ![@ice_chip][twitter] ](https://twitter.com/ice_chip) [ ![RSS][rss] ](http://www.newsobserver.com/sports/nhl/carolina-hurricanes/?widgetName=rssfeed&widgetContentId=8173866&getXmlFeed=true) [ ![Email][envelope] ](mailto:calexander@newsobserver.com) |
 | [Chicago Blackhawks](https://www.nhl.com/blackhawks)| [Chris Kuc](http://www.chicagotribune.com/chi-chris-kuc-staff.html) | [Chicago Tribune](http://www.chicagotribune.com/sports/hockey/blackhawks/) | [ ![@ChrisKuc][twitter] ](https://twitter.com/ChrisKuc) [ ![RSS][rss] ](http://www.chicagotribune.com/sports/hockey/blackhawks/rss2.0.xml) [ ![Email][envelope] ](mailto:ckuc@chicagotribune.com)
 | [Colorado Avalanche](https://www.nhl.com/avalanche)| **[Adrian Dater](http://bsndenver.com/author/adater/)**| [BSN Denver](http://bsndenver.com/avalanche/)| [ ![@adater][twitter] ](https://twitter.com/adater) 
 | [Columbus Blue Jackets](https://www.nhl.com/bluejackets) | **Aaron Portzline** | [The Columbus Dispatch](http://www.dispatch.com/sports/cbj) | [ ![@Aportzline][twitter] ](https://twitter.com/Aportzline)[ ![RSS][rss] ](http://www.dispatch.com/sports/cbj?template=rss&mime=xml)[ ![Email][envelope] ](mailto:aportzline@dispatch.com)
