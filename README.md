@@ -1,19 +1,23 @@
 # Hockey beat writers
 
-This is an attempt to maintain a table of beat writers around
+This is an attempt to maintain a table of local beat writers around
 the [NHL](http://nhl.com) and other leagues.
 
 Submit a pull request or use the issue tracker to add writers
-or provide additional information.Include:
+or provide additional information.  Include:
 
 - [ ] organization
 - [ ] writer's name, with link to profile
 - [ ] website writer publishes on
 - [ ] twitter, rss feed, and email (all that are available)
 
+If you're submitting a pull request, you can also use the 
+`./generate-string.py` tool to populate the row markdown for your
+writer.
+
 **Bold names** indicate consensus favorite.
 
-**Note:** an agressive adblocking list (Fanboy’s Annoyance List)
+_Note:_ an agressive adblocking list (Fanboy’s Annoyance List)
 can cause the icons in the *Follow* column to be hidden.
 
 # [NHL](https://nhl.com)
