@@ -43,7 +43,7 @@ can cause the icons in the *Follow* column to be hidden.
 | Montreal Canadiens| | |
 | Nashville Predators | | |
 | [New Jersey Devils](https://www.nhl.com/devils) | [Andrew Gross](http://www.northjersey.com/staff/10055944/andrew-gross/) | [The Record (North Jersey)](http://www.northjersey.com/blog/fireandice/) | [ ![@AGrossRecord][twitter] ](https://twitter.com/AGrossRecord)  [ ![Email][envelope] ](mailto:agross@gannett.com) |
-| New York Islanders| | |
+| [New York Islanders](https://www.nhl.com/islanders) | **Arthur Staple** | [Newsday](https://www.newsday.com/sports/hockey/islanders) | [ ![@StapeNewsday][twitter] ](https://twitter.com/StapeNewsday) [ ![RSS][rss] ](https://www.newsday.com/cmlink/1.1252042) [ ![Email][envelope] ](mailto:arthur.staple@newsday.com) |
 | New York Rangers| | |
 | Ottawa Senators | | |
 | [Philadelphia Flyers](https://www.nhl.com/flyers) | **Sam Carchidi** | [The Philadelphia Inquirer](http://www.philly.com/philly/sports/flyers) | [ ![@BroadStBull][twitter] ](https://twitter.com/BroadStBull)[ ![Email][envelope] ](mailto:scarchidi@phillynews.com)
