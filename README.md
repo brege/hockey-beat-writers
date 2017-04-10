@@ -42,7 +42,7 @@ can cause the icons in the *Follow* column to be hidden.
 | [Minnesota Wild](https://www.nhl.com/wild) | **[Michael Russo](http://www.startribune.com/sports/blogs/Russos_Rants/)**| [Star Tribune](http://www.startribune.com/sports/wild/)| [ ![@Russostrib][twitter] ](https://twitter.com/Russostrib)[ ![RSS][rss] ](http://www.startribune.com/sports/wild/index.rss2)
 | Montreal Canadiens| | |
 | Nashville Predators | | |
-| New Jersey Devils | | |
+| [New Jersey Devils](https://www.nhl.com/devils) | [Andrew Gross](http://www.northjersey.com/staff/10055944/andrew-gross/) | [The Record (North Jersey)](http://www.northjersey.com/blog/fireandice/) | [ ![@AGrossRecord][twitter] ](https://twitter.com/AGrossRecord)  [ ![Email][envelope] ](mailto:agross@gannett.com) |
 | New York Islanders| | |
 | New York Rangers| | |
 | Ottawa Senators | | |
