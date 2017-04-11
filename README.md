@@ -26,6 +26,7 @@ can cause the icons in the *Follow* column to be hidden.
 |:------------|:------|:----|:------ |
 | [Anaheim Ducks](https://www.nhl.com/ducks) | [**Eric Stephens**](http://www.ocregister.com/reporter-profile/eric-1678-stephens) | [Orange County Register](http://www.ocregister.com/sections/sports/ducks/) | [ ![@icemancometh][twitter] ](https://twitter.com/icemancometh) [ ![RSS][rss] ](http://www.ocregister.com/common/rss/rss.php?catID=18903) [ ![Email][envelope] ](mailto:estephens@ocregister.com) |
 | [Arizona Coyotes](https://www.nhl.com/coyotes/) | **Craig Morgan** | [Arizona Sports](http://arizonasports.com/arizona-coyotes/) | [ ![@craigsmorgan][twitter] ](https://twitter.com/craigsmorgan)   |
+|    | [Sarah McLellan](http://www.azcentral.com/staff/17107/sarah-mclellan/) | [The Arizona Republic](http://www.azcentral.com/sports/coyotes-nhl/) | [ ![@azc_mclellan][twitter] ](https://twitter.com/azc_mclellan)  [ ![Email][envelope] ](mailto:sarah.mclellan@arizonarepublic.com) |
 | Boston Bruins | | |
 | [Buffalo Sabres](https://www.nhl.com/sabres) | [**John Vogl**](http://buffalonews.com/author/john_vogl/) | [The Buffalo News](http://buffalonews.com/section/sports/sabres/) | [ ![@BuffNewsVogl][twitter] ](https://twitter.com/BuffNewsVogl) |
 | Calgary Flames| | |
