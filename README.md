@@ -57,7 +57,7 @@ can cause the icons in the *Follow* column to be hidden.
 | [Toronto Maple Leafs](https://www.nhl.com/mapleleafs) | **[James Mirtle](https://theathletic.com/author/5587/)** | [The Athletic](https://theathletic.com/leafs/) | [ ![@mirtle][twitter] ](https://twitter.com/mirtle/) [ ![RSS][rss] ](https://theathletic.com/author/5587/feed/)
 | Vancouver Canucks | | |
 | Washington Capitals | | |
-| Winnipeg Jets | | |
+| [Winnipeg Jets](https://www.nhl.com/jets) | [Ken Wiebe](http://www.winnipegsun.com/author/ken-wiebe) | [Winnipeg Sun](http://www.winnipegsun.com/sports/hockey/winnipeg_jets) | [ ![@WiebeSunSports][twitter] ](https://twitter.com/WiebeSunSports) [ ![RSS][rss] ](http://www.winnipegsun.com/sports/hockey/winnipeg_jets/rss.xml) [ ![Email][envelope] ](mailto:ken.wiebe@sunmedia.ca) |
 
 # [AHL](http://theahl.com)
 
