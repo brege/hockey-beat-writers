@@ -42,7 +42,7 @@ can cause the icons in the *Follow* column to be hidden.
 | Los Angeles Kings | | |
 | [Minnesota Wild](https://www.nhl.com/wild) | **[Michael Russo](http://www.startribune.com/sports/blogs/Russos_Rants/)**| [Star Tribune](http://www.startribune.com/sports/wild/)| [ ![@Russostrib][twitter] ](https://twitter.com/Russostrib) [ ![RSS][rss] ](http://www.startribune.com/sports/wild/index.rss2)
 | Montreal Canadiens| | |
-| Nashville Predators | | |
+| [Nashville Predators](https://www.nhl.com/predators) | [**Adam Vingan**](http://www.tennessean.com/staff/36339/adam-vingan/) | [The Tennessean](http://www.tennessean.com/sports/predators/) | [ ![@AdamVingan][twitter] ](https://twitter.com/AdamVingan) [ ![RSS][rss] ](http://rssfeeds.tennessean.com/nashville/predators) [ ![Email][envelope] ](mailto:avingan@tennessean.com) |
 | [New Jersey Devils](https://www.nhl.com/devils) | [Andrew Gross](http://www.northjersey.com/staff/10055944/andrew-gross/) | [The Record (North Jersey)](http://www.northjersey.com/blog/fireandice/) | [ ![@AGrossRecord][twitter] ](https://twitter.com/AGrossRecord)  [ ![Email][envelope] ](mailto:agross@gannett.com) |
 | [New York Islanders](https://www.nhl.com/islanders) | **Arthur Staple** | [Newsday](https://www.newsday.com/sports/hockey/islanders) | [ ![@StapeNewsday][twitter] ](https://twitter.com/StapeNewsday) [ ![RSS][rss] ](https://www.newsday.com/cmlink/1.1252042) [ ![Email][envelope] ](mailto:arthur.staple@newsday.com) |
 | [New York Rangers](https://www.nhl.com/rangers) | **Steve Zipay** | [Newsday](https://www.newsday.com/sports/hockey/rangers) | [ ![@stevezipay][twitter] ](https://twitter.com/stevezipay) [ ![RSS][rss] ](https://www.newsday.com/cmlink/1.1252036) [ ![Email][envelope] ](mailto:steve.zipay@newsday.com) |
