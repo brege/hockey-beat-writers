@@ -132,7 +132,7 @@ can cause the icons in the *Follow* column to be hidden.
 |:------------|:------|:----|:------ |
 | Barrie Colts| | |
 | Erie Otters | | |
-| Flint Firebirds | | |
+| [Flint Firebirds](http://flintfirebirds.com/) | [**Dominic Hennig\***](http://connect.mlive.com/user/dominichennig1/posts.html) | [MLive](http://topics.mlive.com/tag/ohlflint/) | [ ![@DominicHennig][twitter] ](https://twitter.com/DominicHennig)  [ ![Email][envelope] ](mailto:dominic@flintfirebirds.com) |
 | Guelph Storm| | |
 | Hamilton Bulldogs | | |
 | Kingston Frontenacs | | |
