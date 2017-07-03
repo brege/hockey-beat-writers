@@ -15,7 +15,7 @@ If you're submitting a pull request, you can also use the
 `./generate-string.py` tool to populate the row markdown for your
 writer.
 
-**Bold names** indicate consensus favorite.
+**Bold names** indicate most active reporter for the team.
 
 _Note:_ an agressive adblocking list (Fanboy’s Annoyance List)
 can cause the icons in the *Follow* column to be hidden.
